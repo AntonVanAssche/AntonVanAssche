@@ -41,11 +41,11 @@ I have some small projects, I make for fun nothing special.
 
 Here are a few of them:
 
-| Project           | Progress                       | Location                                                     |
-| ----------------- | ------------------------------ | ------------------------------------------------------------ |
-| `Gnoti`           | Updated to Gnome 42            | [Git repo](https://github.com/AntonVanAssche/gnoti)          |
-| `rpi-nas `        | Done                           | [Git repo](https://github.com/AntonVanAssche/rpi-nas)        |
-| `rpi-homeserver ` | Done                           | [Git repo](https://github.com/AntonVanAssche/rpi-homeserver) |
-| `Dotfiles `       | Fine-tune installation scripts | [Git repo](https://github.com/AntonVanAssche/dotfiles)       |
-| `BashPass `       | Version `2.0` development      | [Git repo](https://github.com/AntonVanAssche/bashpass)       |
-| `ant0n.tk `       |                                | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
+| Project          | Progress                                       | Location                                                     |
+| ---------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| `Gnoti`          | Updated to Gnome 42                            | [Git repo](https://github.com/AntonVanAssche/gnoti)          |
+| `rpi-nas`        | Done                                           | [Git repo](https://github.com/AntonVanAssche/rpi-nas)        |
+| `rpi-homeserver` | Done                                           | [Git repo](https://github.com/AntonVanAssche/rpi-homeserver) |
+| `Dotfiles`       | Customizing Gnome to look nice with libadwaita | [Git repo](https://github.com/AntonVanAssche/dotfiles)       |
+| `BashPass`       | Version `2.0` development                      | [Git repo](https://github.com/AntonVanAssche/bashpass)       |
+| `ant0n.tk`       |                                                | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
