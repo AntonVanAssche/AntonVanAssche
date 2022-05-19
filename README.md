@@ -16,6 +16,7 @@
 -  🏫 Studying Toegepaste informatica at HoGent
 -  🧠 I am learning (still googling some basic crap sometimes):
    -  🐚 Bash
+   -  🐍 Python
    -  ♨️ Java (I know it's a pain in the ass)
    -  🌐 HTML/CSS/JS
 -  👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
@@ -49,3 +50,4 @@ Here are a few of them:
 | `Dotfiles`       | Customizing Gnome to look nice with libadwaita | [Git repo](https://github.com/AntonVanAssche/dotfiles)       |
 | `BashPass`       | Version `2.0` Released                         | [Git repo](https://github.com/AntonVanAssche/bashpass)       |
 | `ant0n.tk`       |                                                | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
+| `PythonStuff`    | Script I write while learning Python           | [Git repo](https://github.com/AntonVanAssche/PythonStuff)    |
