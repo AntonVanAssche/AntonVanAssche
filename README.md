@@ -9,9 +9,7 @@
 
 ## 💡 About
 
-<a href="https://bit.ly/3szwQv1">
-   <img align="right"  width="40%" src="./assets/penguin.gif"/>
-</a>
+<img align="right"  width="50%" src="./assets/penguin.gif"/>
 
 -  <img width="15" src="./assets/waving-hand.gif"/> Hi, I’m Anton!
 -  🏫 Studying Toegepaste informatica at HoGent
