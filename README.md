@@ -7,26 +7,30 @@
    <br>
 </div>
 
-## 💡 About
+<h2>💡 About</h2>
 
 <img align="right"  width="50%" src="./assets/penguin.gif"/>
 
--  <img width="15" src="./assets/waving-hand.gif"/> Hi, I’m Anton!
--  🏫 Studying Toegepaste informatica at HoGent
--  🧠 I am learning (still googling some basic crap sometimes):
-   -  🐚 Bash
-   -  🐍 Python
-   -  ♨️ Java (I know it's a pain in the ass)
-   -  🌐 HTML/CSS/JS
--  👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
--  🐧 Linux is my passion, even if I suffer from errors.
--  👷 I’m currently working on [BashPass](https://github.com/AntonVanAssche/bashpass) for fun and to learn a thing or too.
--  💻 Currently using Fedora Linux ([dotfiles](https://github.com/AntonVanAssche/dotfiles)) and unfortunately also Windows.
--  ⚡ Fun fact: I have a certificate for completing the [Cisco Networking Academy Cybersecurity Essentials course](https://www.credly.com/badges/9ee8cf32-505d-474f-8210-285248b698d0/public_url).
+<ul>
+   <li><img width="15" src="./assets/waving-hand.gif"/> Hi, I’m Anton!</li>
+   <li>🏫 Studying Toegepaste informatica at HoGent</li>
+   <li>🧠 I am learning (still googling some basic crap sometimes):</li>
+      <ul>
+         <li>🐚 Bash</li>
+         <li>🐍 Python</li>
+         <li>♨️ Java (I know it's a pain in the ass)</li>
+         <li>🌐 HTML/CSS/JS</li>
+      </ul>
+   <li>👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!</li>
+   <li>🐧 Linux is my passion, even if I suffer from errors.</li>
+   <li>👷 I’m currently working on <a href="https://github/AntonVanAssche/BashPass">BashPass</a> for fun and to learn a thing or too.</li>
+   <li>💻 Currently using Fedora Linux <a href="https://github.com/AntonVanAssche/dotfiles">dotfiles</a> and unfortunately also Windows.</li>
+   <li>⚡ Fun fact: I have a certificate for completing the <a href="https://www.credly.com/badges/9ee8cf32-505d-474f-8210-285248b698d0/public_url">Cisco Networking Academy Cybersecurity Essentials course</a>.
+</ul>
 
 <br>
 
-## ⚡ Github Stats
+<h2>⚡ Github Stats</h2>
 
 <div align="center">
    <a href="https://github.com/AntonVanAssche">
@@ -37,11 +41,10 @@
 
 <br>
 
-## ⚙️ Some projects
+<h2>⚙️ Some projects</h2>
 
-I have some small projects, I make for fun nothing special.
-
-Here are a few of them:
+<p>I have some small projects, I make for fun nothing special.</p>
+<p>Here are a few of them:</p>
 
 | Project          | Progress                                       | Location                                                     |
 | ---------------- | ---------------------------------------------- | ------------------------------------------------------------ |
