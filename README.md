@@ -53,5 +53,5 @@
 | `rpi-homeserver` | Done                                           | [Git repo](https://github.com/AntonVanAssche/rpi-homeserver) |
 | `Dotfiles`       | Customizing Gnome to look nice with libadwaita | [Git repo](https://github.com/AntonVanAssche/dotfiles)       |
 | `BashPass`       | Version `2.0` Released                         | [Git repo](https://github.com/AntonVanAssche/bashpass)       |
-| `ant0n.tk`       |                                                | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
-| `PythonStuff`    | Script I write while learning Python           | [Git repo](https://github.com/AntonVanAssche/PythonStuff)    |
+| `ant0n.tk`       | Personal website                               | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
+| `PythonStuff`    | Scripts I write while learning Python          | [Git repo](https://github.com/AntonVanAssche/PythonStuff)    |
