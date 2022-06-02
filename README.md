@@ -21,7 +21,7 @@
       </ul>
    <li>👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!</li>
    <li>🐧 Linux is my passion, even if I suffer from errors.</li>
-   <li>👷 I’m currently working on <a href="https://github/AntonVanAssche/BashPass">BashPass</a> for fun and to learn a thing or too.</li>
+   <li>👷 I’m currently working on <a href="https://github.com/AntonVanAssche/BashPass">BashPass</a> for fun and to learn a thing or too.</li>
    <li>💻 Currently using Fedora Linux (<a href="https://github.com/AntonVanAssche/dotfiles">dotfiles</a>) and unfortunately also Windows.</li>
    <li>⚡ Fun fact: I have a certificate for completing the <a href="https://www.credly.com/badges/9ee8cf32-505d-474f-8210-285248b698d0/public_url">Cisco Networking Academy Cybersecurity Essentials course</a>.
 </ul>
