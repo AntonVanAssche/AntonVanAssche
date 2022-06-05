@@ -32,7 +32,7 @@
 <div align="center">
    <a href="https://github.com/AntonVanAssche">
       <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonVanAssche&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
-      <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonVanAssche&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
+      <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonVanAssche&langs_count=8&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
    </a>
 </div>
 
