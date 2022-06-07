@@ -51,3 +51,4 @@
 | `BashPass`       | Version `2.0` Released                | [Git repo](https://github.com/AntonVanAssche/bashpass)       |
 | `ant0n.tk`       | Personal website                      | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
 | `PythonStuff`    | Scripts I write while learning Python | [Git repo](https://github.com/AntonVanAssche/PythonStuff)    |
+| `Joke Bot`       | A Discord bot to make you laugh       | [Git repo](https://github.com/AntonVanAssche/joke-bot)       |
