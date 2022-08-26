@@ -1,4 +1,10 @@
 <div align="center">
+   <p><samp><img width="15" src="./assets/waving-hand.gif"/> Hi, I'm <a href="https://www.ant0n.tk">Anton</a>!<br></samp></p>
+
+   <pre>🏫 Applied Informatics Student | 💻 Linux Enthusiast </code></pre>
+</div>
+<!--
+<div align="center">
    <h1>
       Hi! <img width="35" src="./assets/waving-hand.gif"> ,
    </h1>
@@ -52,3 +58,5 @@
 | `ant0n.tk`       | Complete redesign                       | [Git repo](https://github.com/AntonVanAssche/ant0n.tk)       |
 | `PythonStuff`    | Scripts I write while learning Python   | [Git repo](https://github.com/AntonVanAssche/PythonStuff)    |
 | `Joke Bot`       | A Discord bot to make you laugh         | [Git repo](https://github.com/AntonVanAssche/joke-bot)       |
+
+-->
