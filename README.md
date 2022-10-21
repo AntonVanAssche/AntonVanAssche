@@ -1,7 +1,7 @@
 <div align="center">
    <p><samp><img width="15" src="./assets/waving-hand.gif"/> Hi, I'm <a href="https://www.ant0n.tk">Anton</a>!<br></samp></p>
 
-   <pre>🏫 Applied Informatics Student | 💻 Linux Enthusiast </code></pre>
+   <pre>🏫 Applied Information Technology Student | 💻 Linux Enthusiast </code></pre>
 
    <a href="https://github.com/AntonVanAssche">
       <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonVanAssche&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
