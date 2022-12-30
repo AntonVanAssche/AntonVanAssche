@@ -4,8 +4,8 @@
    <pre>🏫 Applied Information Technology Student | 💻 Linux Enthusiast </code></pre>
 
    <a href="https://github.com/AntonVanAssche">
-      <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonVanAssche&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
-      <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonVanAssche&langs_count=8&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
+      <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AntonVanAssche&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&layout=compact&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonVanAssche&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&layout=compact"/>
    </a>
 </div>
 <!--
