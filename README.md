@@ -1,5 +1,5 @@
 <div align="center">
-   <p><samp><img width="15" src="./assets/waving-hand.gif"/> Hi, I'm <a href="https:/antonvanassche.github.io/">Anton</a>!<br></samp></p>
+   <p><samp><img width="15" src="./assets/waving-hand.gif"/> Hi, I'm <a href="https://antonvanassche.github.io/">Anton</a>!<br></samp></p>
 
    <pre>🏫 Applied Information Technology Student | 💻 Linux Enthusiast </code></pre>
 
